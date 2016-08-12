@@ -1,0 +1,12 @@
+<table border="1" cellpadding="2" ng-controller="houses">
+    <tr>
+        <td>Location</td>
+        <td>Price</td>
+        <td>Rooms</td>
+    </tr>
+    <tr ng-repeat="x in data">
+        <td>{{x.houseLocation}}</td>
+        <td>{{x.housePrice}}</td>
+        <td>{{x.rooms}}</td>
+    </tr>
+</table>
