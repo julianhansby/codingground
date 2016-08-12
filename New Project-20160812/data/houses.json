@@ -1,0 +1,22 @@
+[
+    {
+        "houseLocation":"Cape Town",
+        "housePrice": 1250000,
+        "rooms": 3
+    },
+    {
+        "houseLocation":"JHB",
+        "housePrice": 80000,
+        "rooms": 2
+    },
+    {
+        "houseLocation":"Greece",
+        "housePrice": 3120000,
+        "rooms": 5
+    },
+    {
+        "houseLocation":"Cape Town",
+        "housePrice": 950000,
+        "rooms":4
+    }
+]
