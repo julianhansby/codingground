@@ -1,0 +1,22 @@
+[
+    {
+        "carName":"Opel",
+        "carPrice": 250000,
+        "carColor": "White"
+    },
+    {
+        "carName":"BMW",
+        "carPrice": 438000,
+        "carColor": "Pearl White"
+    },
+    {
+        "carName":"Ferrari",
+        "carPrice": 5500000,
+        "carColor": "Red"
+    },
+    {
+        "carName":"Mustang",
+        "carPrice": 949000,
+        "carColor": "Orange"
+    }    
+]
